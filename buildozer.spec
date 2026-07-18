@@ -3,7 +3,7 @@ title = Scientific Calculator
 package.name = scicalculator
 package.domain = org.example
 
-source.dir.
+source.dir = .
 
 version = 1.0
 requirements = python3,kivy
